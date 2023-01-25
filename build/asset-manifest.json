@@ -1,0 +1,13 @@
+{
+  "files": {
+    "main.js": "/static/js/main.d54f7bf5.js",
+    "static/media/logo3.jpg": "/static/media/logo3.b6109434f516b1319246.jpg",
+    "static/media/arbabprofilepic.jpg": "/static/media/arbabprofilepic.873fb2182c7603d77615.jpg",
+    "static/media/logo.png": "/static/media/logo.0ea98aa2bac0cfe8ad37.png",
+    "index.html": "/index.html",
+    "main.d54f7bf5.js.map": "/static/js/main.d54f7bf5.js.map"
+  },
+  "entrypoints": [
+    "static/js/main.d54f7bf5.js"
+  ]
+}
